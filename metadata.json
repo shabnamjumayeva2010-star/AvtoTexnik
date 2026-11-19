@@ -1,0 +1,6 @@
+{
+  "name": "AvtoTexnik",
+  "description": "Avto texnika xizmatlari uchun mobil ilova: dvigatel moyi va ehtiyot qismlar eslatmalari, mijoz shaxsiy kabineti, servis tarixi va xavfsizlik protokollari bilan himoyalangan sirli admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
